@@ -1,0 +1,65 @@
+.heading{
+  color: red;
+}
+
+.heading2{
+  color: rgb(31, 236, 4);
+  font-style: italic;
+}
+
+.margin{
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+.linethrough{
+  font-weight: bold;
+  text-decoration: line-through;
+}
+
+.highlated{
+  font-weight: bold;
+  background-color: yellow;
+}
+
+.underlinemargin{
+  text-decoration: underline;
+  font-style: italic;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+.heading3{
+  color: red;
+}
+
+.textdecoration1{
+  letter-spacing: 5px;
+  color: brown;
+}
+
+.highlight1{
+  background-color: yellow;
+}
+
+.textdecoration2{
+  color: brown;
+  font-weight: lighter;
+}
+
+.textdecoration3{
+  font-size: xx-small;
+  color: brown;
+}
+
+.textdecoration4{
+  color: brown;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.textdecoration5{
+  color: red;
+  background-color: yellow;
+  text-decoration: none;  
+}
